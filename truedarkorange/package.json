@@ -1,0 +1,21 @@
+{
+    "name": "truedarkorange",
+    "displayName": "trueDarkOrange",
+    "description": "deep dark orange",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deep Dark Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Deep Dark Orange-color-theme.json"
+            }
+        ]
+    }
+}
